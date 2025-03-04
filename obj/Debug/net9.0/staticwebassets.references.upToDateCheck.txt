@@ -1,0 +1,1 @@
+C:\Users\Agus\source\repos\BibliotecaAPI\BibliotecaAPI\obj\Debug\net9.0\staticwebassets.build.json
